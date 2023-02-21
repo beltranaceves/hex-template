@@ -1,6 +1,12 @@
 # HexTemplate
 
-**TODO: Add description**
+Starter project for HEX packages. Includes a GH action to publish to hex.pm on push.
+
+## Setup
+
+1. First, create a key on your [Hex.pm dashboard](https://hex.pm/dashboard/keys).
+
+2. Next, add the key from step 1 to your GitHub repository’s secrets. Call it HEX_API_KEY.
 
 ## Installation
 
