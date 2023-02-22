@@ -1,6 +1,6 @@
 # HexTemplate
 
-Starter project for HEX packages. Includes a GH action to publish to hex.pm on push.
+Starter project for HEX packages. Includes a GH action to publish to hex.pm on push, using gitflow with release/develop.
 
 ## Setup
 
